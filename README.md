@@ -6,7 +6,7 @@
 
 * **WSJ0**: Wall Street Journal
     * 可用于语音分离、语音增强、语音识别等任务 for tasks including speech separation, speech enhancement, ASR...
-    * [paper(Proceedings 1992)](https://dl.acm.org/doi/pdf/10.3115/1075527.1075614)
+    * [paper(HLT 1992)](https://dl.acm.org/doi/pdf/10.3115/1075527.1075614)
     * [LDC官方链接 official data from LDC](https://catalog.ldc.upenn.edu/LDC93S6A)
 * **LibriSpeech**
     * 可用于语音识别等任务 for tasks including ASR...
