@@ -23,13 +23,20 @@
 * **LibriMix**
     * 可用于语音分离、语音增强等任务 for tasks including speech separation, speech enhancement... 
     * [paper](https://arxiv.org/abs/2005.11262)
-    * [数据生成脚本官方GitHub official data generation scripts in GitHub](https://github.com/JorisCos/LibriMix)
+    * [数据生成GitHub脚本官方 official data generation scripts in GitHub](https://github.com/JorisCos/LibriMix)
 
 ## 说话人分割 Speaker Diarization
 
 ### 说话人分割 - 数据集 Dataset
 * **VoxConverse**
     * 可用于说话人分割相关任务 for speaker diarization and related tasks...
-    * [paper](https://arxiv.org/abs/2007.01216)
+    * [paper: Spot the Conversation: Speaker Diarization in the Wild (INTERSPEECH 2020)](https://arxiv.org/abs/2007.01216)
     * [VGG官方链接 official data from VGG @ Oxford](https://www.robots.ox.ac.uk/~vgg/data/voxconverse/index.html)
     * [数据标注 ground-truth labels](https://github.com/joonson/voxconverse)
+
+### 说话人分割 - 代码 Codebase
+* **Spectral Clustering for Speaker Diariazation**
+    * [paper: Speaker Diarization with LSTM (ICASSP 2018)](https://google.github.io/speaker-id/publications/LstmDiarization/)
+    * [谱聚类GitHub官方程序 official code in GitHub](https://github.com/wq2012/SpectralCluster)
+
+
