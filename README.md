@@ -32,7 +32,7 @@
     * 可用于说话人分割相关任务 for speaker diarization and related tasks...
     * [paper(INTERSPEECH 2020)](https://arxiv.org/abs/2007.01216)
     * [VGG官方链接 official data from VGG @ Oxford](https://www.robots.ox.ac.uk/~vgg/data/voxconverse/index.html)
-    * [数据标注 ground-truth labels](https://github.com/joonson/voxconverse)
+    * [标签数据 ground-truth labels](https://github.com/joonson/voxconverse)
 
 ### 说话人分割 - 代码 Codebase
 * **Spectral Clustering for Speaker Diariazation**
