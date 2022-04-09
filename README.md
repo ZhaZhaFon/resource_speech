@@ -32,6 +32,10 @@
 
 ## 说话人分割 Speaker Diarization
 
+### 说话人分割 - Awesome
+* **wq2012/awesome-diarization**
+    * [wq2012/awesome-diarization](https://github.com/wq2012/awesome-diarization#Clustering)
+
 ### 说话人分割 - 基准 Benchmark
 * **VoxSRC-20 track 4**
     * 说话人分割竞赛, 无数据约束, 在VoxConverse上进行评测 Speaker Diariaztion competition evaluated on VoxConverse, no limitation on data
@@ -49,4 +53,8 @@
     * [paper (ICASSP 2018)](https://google.github.io/speaker-id/publications/LstmDiarization/)
     * [GitHub (Google的官方程序 official code in GitHub from Google)](https://github.com/wq2012/SpectralCluster)
 
-
+### 说话人分割 - 评测 Evaluation
+* **VoxSRC-20 Evaluation Toolkits**
+    * 包括DER、JER等指标 metrics including DER, JER...
+    * [GitHub (VoxSRC-20的官方程序 official code from VoxSRC-20)[https://github.com/a-nagrani/VoxSRC2020]
+* **VoxSRC-20 Evaluation Toolkits**
