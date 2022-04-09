@@ -27,7 +27,7 @@
 * **WHAM!**
     * 噪声数据, 可用于语音增强、有噪语音分离等任务(配合wsj0-2mix、LibriMix中的语音数据) noise data for tasks including speech enhancement, speech separation under noisy environment...(normally used with speech audio from wsj0-2mix or LibriMix)
     * [paper (INTERSPEECH 2019)](https://arxiv.org/abs/1907.01160)
-    * [link@Whisper.ai (官方链接 official link)](https://wham.whisper.ai/)
+    * [website@Whisper.ai (官方链接 official link)](https://wham.whisper.ai/)
 
 ## 说话人分割 Speaker Diarization
 
@@ -39,8 +39,8 @@
 ### 说话人分割 - 数据集 Dataset
 * **VoxConverse**
     * 可用于说话人分割相关任务 for speaker diarization and related tasks...
-    * [paper(INTERSPEECH 2020)](https://arxiv.org/abs/2007.01216)
-    * [link@VGG-Oxford (官方链接 official link)](https://www.robots.ox.ac.uk/~vgg/data/voxconverse/index.html)
+    * [paper (INTERSPEECH 2020)](https://arxiv.org/abs/2007.01216)
+    * [website@VGG-Oxford (官方链接 official link)](https://www.robots.ox.ac.uk/~vgg/data/voxconverse/index.html)
     * [GitHub (VGG-Oxford的标签数据 ground-truth labels from VGG-Oxford)](https://github.com/joonson/voxconverse)
 
 ### 说话人分割 - 代码 Codebase
