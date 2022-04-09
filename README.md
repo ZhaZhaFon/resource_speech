@@ -56,5 +56,4 @@
 ### 说话人分割 - 评测 Evaluation
 * **VoxSRC-20 Evaluation Toolkits**
     * 包括DER、JER等指标 metrics including DER, JER...
-    * [GitHub (VoxSRC-20的官方程序 official code from VoxSRC-20)[https://github.com/a-nagrani/VoxSRC2020]
-* **VoxSRC-20 Evaluation Toolkits**
+    * [GitHub (VoxSRC-20的官方程序 official code from VoxSRC-20)](https://github.com/a-nagrani/VoxSRC2020)
