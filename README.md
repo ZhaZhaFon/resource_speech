@@ -34,6 +34,20 @@
     * [paper (INTERSPEECH 2019)](https://arxiv.org/abs/1907.01160)
     * [website@Whisper.ai (官方链接 official link)](https://wham.whisper.ai/)
 
+## 说话人识别 Speaker Recognition
+
+### 说话人识别 - 数据集
+* **VoxCeleb1**
+    * 可用于说话人验证、说话人辨认等任务 for tasks including Speaker Verification, Speaker Identification...
+    * [paper (INTERSPEECH 2017)](https://arxiv.53yu.com/abs/1706.08612)
+    * [website@VGG-Oxford (官方链接 official link)](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)
+    * [website@Graviti](https://gas.graviti.cn/dataset/hello-dataset/VoxCeleb1/download)
+* **VoxCeleb1**
+    * 可用于说话人验证、说话人辨认等任务 for tasks including Speaker Verification, Speaker Identification...
+    * [paper (INTERSPEECH 2018)](https://arxiv.53yu.com/abs/1806.05622)
+    * [website@VGG-Oxford (官方链接 official link)](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html)
+    * [website@Graviti](https://gas.graviti.cn/dataset/hello-dataset/VoxCeleb2/download)
+
 ## 说话人分割 Speaker Diarization
 
 ### 说话人分割 - Awesome
