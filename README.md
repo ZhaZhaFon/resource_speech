@@ -5,28 +5,32 @@
 ### 语料库 Corpus
 
 * **WSJ0**: Wall Street Journal
-    * 可用于语音分离、语音增强、语音识别等任务 for tasks including speech separation, speech enhancement, ASR...
+    * 可用于语音分离、语音增强、语音识别等任务 for tasks including Speech Separation, Speech Enhancement, ASR...
     * [paper (HLT 1992)](https://dl.acm.org/doi/pdf/10.3115/1075527.1075614)
     * [LDC (官方链接 official link)](https://catalog.ldc.upenn.edu/LDC93S6A)
 * **LibriSpeech**
-    * 可用于语音识别等任务 for tasks including ASR, speech separation, speech enhancement...
+    * 可用于语音识别等任务 for tasks including ASR, Speech Separation, Speech Enhancement...
     * [paper (ICASSP 2015)](https://www.danielpovey.com/files/2015_icassp_librispeech.pdf)
     * [OpenSLR (官方链接 official link)](https://www.openslr.org/12/)
+* **RIR_NOISES**
+    * RIR数据, 可用于语音识别、说话人识别中的数据增强 RIR data for data augmentation in ASR, Speaker Recognition...
+    * [paper (ICASSP 2017)](https://ieeexplore.ieee.org/abstract/document/7953152)
+    * [OpenSLR (官方链接 official link)](https://www.openslr.org/28/)
 
 ## 语音前端 Speech Front-end
 
 ### 语音前端 - 数据集 Dataset
 * **wsj0-2mix**
-    * 可用于语音分离、语音增强等任务 for tasks including speech separation, speech enhancement...
+    * 可用于语音分离、语音增强等任务 for tasks including Speech Separation, Speech Enhancement...
     * [paper (ICASSP 2016)](https://arxiv.org/abs/1508.04306)
     * [台湾大学李宏毅博士上传的部分数据 some data released by Dr. Hung-yi Lee @ NTU](https://docs.google.com/presentation/d/1lskmHkti5tJjRvrl03mhuh_aMwfGA4M2Heayk5hL054/edit#slide=id.g80fe64a690_0_75)
     * [website@MERL (MERL的数据生成官方脚本 official data generation scripts from MERL)](https://www.merl.com/demos/deep-clustering)
 * **LibriMix**
-    * 可用于语音分离、语音增强等任务 for tasks including speech separation, speech enhancement... 
+    * 可用于语音分离、语音增强等任务 for tasks including Speech Separation, Speech Enhancement... 
     * [paper (arXiv 2020)](https://arxiv.org/abs/2005.11262)
     * [GitHub (Inria的数据生成官方脚本 official data generation scripts from Inria](https://github.com/JorisCos/LibriMix)
 * **WHAM!**
-    * 噪声数据, 可用于语音增强、有噪语音分离等任务(配合wsj0-2mix、LibriMix中的语音数据) noise data for tasks including speech enhancement, speech separation under noisy environment...(normally used with speech audio from wsj0-2mix or LibriMix)
+    * 噪声数据, 可用于语音增强、有噪语音分离等任务(配合wsj0-2mix、LibriMix中的语音数据) noise data for tasks including Speech Enhancement, Speech Separation under noisy environment...(normally used with speech audio from wsj0-2mix or LibriMix)
     * [paper (INTERSPEECH 2019)](https://arxiv.org/abs/1907.01160)
     * [website@Whisper.ai (官方链接 official link)](https://wham.whisper.ai/)
 
