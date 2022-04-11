@@ -13,7 +13,7 @@
     * [paper (ICASSP 2015)](https://www.danielpovey.com/files/2015_icassp_librispeech.pdf)
     * [OpenSLR (官方链接 official link)](https://www.openslr.org/12/)
 * **RIR_NOISES**
-    * RIR数据, 可用于语音识别、说话人识别中的数据增强 RIR data for data augmentation in ASR, Speaker Recognition...
+    * 房间冲击响应(RIR)数据, 可用于语音识别、说话人识别中的数据增强 Room Impulse Response(RIR) data for data augmentation in ASR, Speaker Recognition...
     * [paper (ICASSP 2017)](https://ieeexplore.ieee.org/abstract/document/7953152)
     * [OpenSLR (官方链接 official link)](https://www.openslr.org/28/)
 
