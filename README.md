@@ -43,6 +43,7 @@
 ### 说话人分割 - 基准 Benchmark
 * **VoxSRC-20 track 4**
     * 说话人分割竞赛, 无数据约束, 在VoxConverse上进行评测 Speaker Diariaztion competition evaluated on VoxConverse, no limitation on data
+    * [website@VoxSRC-20 (竞赛官网 challenge website)](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/competition2020.html)
     * [Leaderboard](https://competitions.codalab.org/competitions/26357#results) 
 
 ### 说话人分割 - 数据集 Dataset
