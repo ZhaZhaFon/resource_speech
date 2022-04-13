@@ -42,11 +42,21 @@
     * [paper (INTERSPEECH 2017)](https://arxiv.53yu.com/abs/1706.08612)
     * [website@VGG-Oxford (官方链接 official link)](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)
     * [website@Graviti](https://gas.graviti.cn/dataset/hello-dataset/VoxCeleb1/download)
-* **VoxCeleb1**
+* **VoxCeleb2**
     * 可用于说话人验证、说话人辨认等任务 for tasks including Speaker Verification, Speaker Identification...
     * [paper (INTERSPEECH 2018)](https://arxiv.53yu.com/abs/1806.05622)
     * [website@VGG-Oxford (官方链接 official link)](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html)
     * [website@Graviti](https://gas.graviti.cn/dataset/hello-dataset/VoxCeleb2/download)
+
+* **CN-Celeb1**
+    * 可用于说话人验证、说话人辨认、说话人检索等任务 for tasks including Speaker Verification, Speaker Identification, Speaker Retrieval...
+    * [paper (ICASSP 2020)](http://128.84.21.203/abs/1911.01799)
+    * [OpenSLR (官方链接 official link)](https://www.openslr.org/82/)
+
+* **CN-Celeb2**
+    * 可用于说话人验证、说话人辨认、说话人检索等任务 for tasks including Speaker Verification, Speaker Identification, Speaker Retrieval...
+    * [paper (Speech Communication 2022)](http://128.84.4.34/abs/2012.12468)
+    * [OpenSLR (官方链接 official link)](https://www.openslr.org/82/)
 
 ## 说话人分割 Speaker Diarization
 
