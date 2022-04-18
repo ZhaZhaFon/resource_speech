@@ -4,7 +4,7 @@
 
 ### 语料库 Corpus
 
-* **WSJ0**: Wall Street Journal
+* **WSJ0(Wall Street Journal)** 
     * 可用于语音分离、语音增强、语音识别等任务 for tasks including Speech Separation, Speech Enhancement, ASR...
     * [paper (HLT 1992)](https://dl.acm.org/doi/pdf/10.3115/1075527.1075614)
     * [LDC (官方链接 official link)](https://catalog.ldc.upenn.edu/LDC93S6A)
@@ -36,6 +36,16 @@
 
 ## 说话人识别 Speaker Recognition
 
+### 说话人识别 - SOTA
+* **VoxSRC-20 track 1**
+    * 说话人识别竞赛, 只能用VoxCeleb数据, 在VoxCeleb上进行评测 Speaker Recognition competition evaluated on VoxCeleb, only VoxCeleb can be used
+    * [website@VoxSRC-20 (竞赛官网 challenge website)](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/competition2020.html)
+    * [Leaderboard](https://competitions.codalab.org/competitions/26120)
+* **VoxSRC-20 track 2**
+    * 说话人识别竞赛, 无数据约束, 在VoxCeleb上进行评测 Speaker Recognition competition evaluated on VoxCeleb, no limitation on data
+    * [website@VoxSRC-20 (竞赛官网 challenge website)](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/competition2020.html)
+    * [Leaderboard](https://competitions.codalab.org/competitions/34066#results)
+
 ### 说话人识别 - 数据集
 * **VoxCeleb1**
     * 可用于说话人验证、说话人辨认等任务 for tasks including Speaker Verification, Speaker Identification...
@@ -47,12 +57,10 @@
     * [paper (INTERSPEECH 2018)](https://arxiv.53yu.com/abs/1806.05622)
     * [website@VGG-Oxford (官方链接 official link)](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html)
     * [website@Graviti](https://gas.graviti.cn/dataset/hello-dataset/VoxCeleb2/download)
-
 * **CN-Celeb1**
     * 可用于说话人验证、说话人辨认、说话人检索等任务 for tasks including Speaker Verification, Speaker Identification, Speaker Retrieval...
     * [paper (ICASSP 2020)](http://128.84.21.203/abs/1911.01799)
     * [OpenSLR (官方链接 official link)](https://www.openslr.org/82/)
-
 * **CN-Celeb2**
     * 可用于说话人验证、说话人辨认、说话人检索等任务 for tasks including Speaker Verification, Speaker Identification, Speaker Retrieval...
     * [paper (Speech Communication 2022)](http://128.84.4.34/abs/2012.12468)
