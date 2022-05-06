@@ -94,3 +94,10 @@
 * **VoxSRC-20 Evaluation Toolkits**
     * 包括DER、JER等指标 metrics including DER, JER...
     * [GitHub (VoxSRC-20的官方程序 official code from VoxSRC-20)](https://github.com/a-nagrani/VoxSRC2020)
+
+## 音频标注 Audio Tagging 
+
+### 音频标注 - 数据集 Dataset
+* **FSDKaggle2018**
+    * 可用于音频标注、声源分离等任务 for tasks including Audio Tagging, general Sound Source Separation...
+    * [Zenodo (官方链接 Official Link)](https://zenodo.org/record/2552860#.YnS_OPNByjC)
