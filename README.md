@@ -41,7 +41,7 @@
 * **Asteroid Toolkits**
     * 基于PyTorch Lightning的深度学习语音前端工具包, 支持语音增强/语音分离/多模态/多通道等语音前端任务和数据集 Toolkits for deep-learning-based speech front-end development, built upon PyTorch Lightning, suports for various recipes and tasks including Speech Enhancement, Speech Separation, Multi-modal, Mulit-channel...
     * [paper (INTERSPEECH 2020)](http://www.interspeech2020.org/uploadfile/pdf/Wed-2-4-4.pdf)
-    * [GitHub (代码仓库 code repository)][https://github.com/asteroid-team/asteroid]
+    * [GitHub (代码仓库 code repository)](https://github.com/asteroid-team/asteroid)
     * [doc (官方文档 official documentations)](https://asteroid-team.github.io/asteroid/why_use_asteroid.html)
 
 ## 说话人识别 Speaker Recognition
