@@ -37,6 +37,13 @@
     * [paper (INTERSPEECH 2019)](https://arxiv.org/abs/1907.01160)
     * [website@Whisper.ai (官方链接 official link)](https://wham.whisper.ai/)
 
+### 语音前端 - 代码 Codebase
+* **Asteroid Toolkits**
+    * 基于PyTorch Lightning的深度学习语音前端工具包, 支持语音增强/语音分离/多模态/多通道等语音前端任务和数据集 Toolkits for deep-learning-based speech front-end development, built upon PyTorch Lightning, suports for various recipes and tasks including Speech Enhancement, Speech Separation, Multi-modal, Mulit-channel...
+    * [paper (INTERSPEECH 2020)](http://www.interspeech2020.org/uploadfile/pdf/Wed-2-4-4.pdf)
+    * [GitHub (代码仓库 code repository)][https://github.com/asteroid-team/asteroid]
+    * [doc (官方文档 official documentations)](https://asteroid-team.github.io/asteroid/why_use_asteroid.html)
+
 ## 说话人识别 Speaker Recognition
 
 ### 说话人识别 - SOTA
@@ -89,7 +96,8 @@
     * [GitHub (VGG-Oxford的标签数据 ground-truth labels from VGG-Oxford)](https://github.com/joonson/voxconverse)
 
 ### 说话人分割 - 代码 Codebase
-* **Spectral Clustering for Speaker Diariazation**
+* **wq2012/SpectralCluster**
+    * 基于谱聚类的说话人分割 Speaker Diarization based on spectral clustering
     * [paper (ICASSP 2018)](https://google.github.io/speaker-id/publications/LstmDiarization/)
     * [GitHub (Google的官方程序 official code in GitHub from Google)](https://github.com/wq2012/SpectralCluster)
 
