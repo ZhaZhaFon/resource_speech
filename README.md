@@ -18,7 +18,7 @@
 * **AISHELL-1**
     * 可用于语音识别、说话人识别等任务 for tasks including ASR, Speaker Recognition...
     * [paper (COCOSDA 2017)](https://ieeexplore.ieee.org/document/8384449)
-    * [website@aishelltech (官方链接)](http://www.aishelltech.com/kysjcp)
+    * [website@aishelltech (官方链接 official link)](http://www.aishelltech.com/kysjcp)
 
 ## 语音前端 Speech Front-end
 
