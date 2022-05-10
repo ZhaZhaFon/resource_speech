@@ -11,14 +11,19 @@
     * 可用于语音识别等任务 for tasks including ASR, Speech Separation, Speech Enhancement...
     * [paper (ICASSP 2015)](https://www.danielpovey.com/files/2015_icassp_librispeech.pdf)
     * [OpenSLR (官方链接 official link)](https://www.openslr.org/12/)
-* **RIR_NOISES**
-    * 房间冲击响应(RIR)数据, 可用于语音识别、说话人识别中的数据增强 Room Impulse Response(RIR) data for data augmentation in ASR, Speaker Recognition...
-    * [paper (ICASSP 2017)](https://ieeexplore.ieee.org/abstract/document/7953152)
-    * [OpenSLR (官方链接 official link)](https://www.openslr.org/28/)
 * **AISHELL-1**
     * 可用于语音识别、说话人识别等任务 for tasks including ASR, Speaker Recognition...
     * [paper (COCOSDA 2017)](https://ieeexplore.ieee.org/document/8384449)
     * [website@aishelltech (官方链接 official link)](http://www.aishelltech.com/kysjcp)
+
+### 数据增强 Data Augmentation
+* **RIR_NOISES**
+    * 房间冲击响应(RIR)数据, 可用于语音识别、说话人识别中的数据增强 Room Impulse Response(RIR) data for data augmentation in ASR, Speaker Recognition...
+    * [paper (ICASSP 2017)](https://ieeexplore.ieee.org/abstract/document/7953152)
+    * [OpenSLR (官方链接 official link)](https://www.openslr.org/28/)
+* **MUSAN**
+    * 包含音乐、语音、噪声三类录音, 可用于语音识别、说话人识别中的数据增强 MUsic, Speech And Noise recordings for data augmentation in ASR, Speaker Recognition...
+    * [OpenSLR (官方链接 official link)](https://www.openslr.org/17/)
 
 ## 语音前端 Speech Front-end
 
@@ -43,6 +48,11 @@
     * [paper (INTERSPEECH 2020)](http://www.interspeech2020.org/uploadfile/pdf/Wed-2-4-4.pdf)
     * [GitHub (代码仓库 code repository)](https://github.com/asteroid-team/asteroid)
     * [doc (官方文档 official documentations)](https://asteroid-team.github.io/asteroid/why_use_asteroid.html)
+* **VoiceFilter**
+    * 基于dvector说话人表征和的CNN-LSTM分离网络的目标说话人提取 Target Speaker Extraction based on dvector speaker embedding and CNN-LSTM separation network
+    * [paper (INTERSPEECH 2019)](https://arxiv.org/abs/1810.04826)
+    * [paper (INTERSPEECH 2020)](https://arxiv.org/abs/2009.04323)
+    * [GitHub (作者推荐的非官方复现 non-official re-implementation recommended by the authors)](https://github.com/mindslab-ai/voicefilter)
 
 ## 说话人识别 Speaker Recognition
 
