@@ -50,8 +50,7 @@
     * [doc (官方文档 official documentations)](https://asteroid-team.github.io/asteroid/why_use_asteroid.html)
 * **VoiceFilter**
     * 基于dvector说话人表征和的CNN-LSTM分离网络的目标说话人提取 Target Speaker Extraction based on dvector speaker embedding and CNN-LSTM separation network
-    * [paper (INTERSPEECH 2019)](https://arxiv.org/abs/1810.04826)
-    * [paper (INTERSPEECH 2020)](https://arxiv.org/abs/2009.04323)
+    * [paper (INTERSPEECH 2019)](https://arxiv.org/abs/1810.04826) & [paper (INTERSPEECH 2020)](https://arxiv.org/abs/2009.04323)
     * [GitHub (作者推荐的非官方复现 non-official re-implementation recommended by the authors)](https://github.com/mindslab-ai/voicefilter)
 
 ## 说话人识别 Speaker Recognition
