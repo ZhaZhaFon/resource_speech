@@ -88,7 +88,7 @@
 ### 说话人识别 - 代码 Codebase
 * **THU-CSLT/Sunine**
     * 支持VoxCeleb、CN-Celeb等数据集, 支持TDNN、ResNet34、ECAPA-TDNN等网络 Support various recipes(VoxCeleb/CN-Celeb) and network architectures(TDNN/ResNet34/ECAPA-TDNN)
-    * [GitLab (THU-CSLT开发的代码库 codebase developed by THU-CSLT)]([https://github.com/wq2012/SpectralCluster](https://gitlab.com/csltstu/sunine))
+    * [GitLab (THU-CSLT开发的代码库 codebase developed by THU-CSLT)](https://gitlab.com/csltstu/sunine))
 
 ## 说话人分割 Speaker Diarization
 
