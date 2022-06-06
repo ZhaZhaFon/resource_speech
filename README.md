@@ -25,6 +25,13 @@
     * 包含音乐、语音、噪声三类录音, 可用于语音识别、说话人识别中的数据增强 MUsic, Speech And Noise recordings for data augmentation in ASR, Speaker Recognition...
     * [OpenSLR (官方链接 official link)](https://www.openslr.org/17/)
 
+### 活动音检测 Voice Activity Detection (VAD)
+* **SileroVAD**
+    * [GitHub (官方代码 official code)](https://github.com/snakers4/silero-vad)
+    * [Torch Hub (预训练模型 pretrained models)](https://pytorch.org/hub/snakers4_silero-vad_vad/)
+* **py-webrtcvad**
+    * [GitHub (官方代码 official code)](https://github.com/wiseman/py-webrtcvad)
+
 ## 语音前端 Speech Front-end
 
 ### 语音前端 - 数据集 Dataset
