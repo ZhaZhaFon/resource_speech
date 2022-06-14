@@ -54,7 +54,7 @@
     * 基于PyTorch Lightning的深度学习语音前端工具包, 支持语音增强/语音分离/多模态/多通道等语音前端任务和数据集 Toolkits for deep-learning-based speech front-end development, built upon PyTorch Lightning, suports for various recipes and tasks including Speech Enhancement, Speech Separation, Multi-modal, Mulit-channel...
     * [paper (INTERSPEECH 2020)](http://www.interspeech2020.org/uploadfile/pdf/Wed-2-4-4.pdf)
     * [GitHub (代码仓库 code repository)](https://github.com/asteroid-team/asteroid)
-    * [doc (官方文档 official documentations)](https://asteroid-team.github.io/asteroid/why_use_asteroid.html)
+    * [Doc (官方文档 official documentations)](https://asteroid-team.github.io/asteroid/why_use_asteroid.html)
 * **VoiceFilter**
     * 基于dvector说话人表征和的CNN-LSTM分离网络的目标说话人提取 Target Speaker Extraction based on dvector speaker embedding and CNN-LSTM separation network
     * [paper (INTERSPEECH 2019)](https://arxiv.org/abs/1810.04826) & [paper (INTERSPEECH 2020)](https://arxiv.org/abs/2009.04323)
@@ -121,6 +121,10 @@
     * 基于谱聚类的说话人分割 Speaker Diarization based on spectral clustering
     * [paper (ICASSP 2018)](https://google.github.io/speaker-id/publications/LstmDiarization/)
     * [GitHub (Google的官方程序 official code in GitHub from Google)](https://github.com/wq2012/SpectralCluster)
+* **BUTSpeechFIT/VBx**
+    * 基于变分贝叶斯-的说话人分割聚类 Speaker Diarization based on variational Bayes HMM
+    * [paper (Computer Speech & Language)](https://www.sciencedirect.com/science/article/pii/S0885230821000619)
+    * [GitHub (官方程序 official code)](https://github.com/BUTSpeechFIT/VBx/tree/master)
 
 ### 说话人分割 - 评测 Evaluation
 * **VoxSRC-20 Evaluation Toolkits**
