@@ -55,7 +55,7 @@
     * [paper (INTERSPEECH 2020)](http://www.interspeech2020.org/uploadfile/pdf/Wed-2-4-4.pdf)
     * [GitHub (代码仓库 code repository)](https://github.com/asteroid-team/asteroid)
     * [Doc (官方文档 official documentations)](https://asteroid-team.github.io/asteroid/why_use_asteroid.html)
-* **VoiceFilter**
+* **Google / VoiceFilter**
     * 基于dvector说话人表征和的CNN-LSTM分离网络的目标说话人提取 Target Speaker Extraction based on dvector speaker embedding and CNN-LSTM separation network
     * [paper (INTERSPEECH 2019)](https://arxiv.org/abs/1810.04826) & [paper (INTERSPEECH 2020)](https://arxiv.org/abs/2009.04323)
     * [GitHub (作者推荐的非官方复现 non-official re-implementation recommended by the authors)](https://github.com/mindslab-ai/voicefilter)
@@ -93,7 +93,7 @@
     * [OpenSLR (官方链接 official link)](https://www.openslr.org/82/)
 
 ### 说话人识别 - 代码 Codebase
-* **THU-CSLT/Sunine**
+* **THU-CSLT / Sunine**
     * 支持VoxCeleb、CN-Celeb等数据集, 支持TDNN、ResNet34、ECAPA-TDNN等网络 Support various recipes(VoxCeleb/CN-Celeb) and network architectures(TDNN/ResNet34/ECAPA-TDNN)
     * [GitLab (THU-CSLT开发的代码库 codebase developed by THU-CSLT)](https://gitlab.com/csltstu/sunine))
 
@@ -117,11 +117,11 @@
     * [GitHub (VGG-Oxford的标签数据 ground-truth labels from VGG-Oxford)](https://github.com/joonson/voxconverse)
 
 ### 说话人分割 - 代码 Codebase
-* **wq2012/SpectralCluster**
+* **wq2012 / SpectralCluster**
     * 基于谱聚类的说话人分割 Speaker Diarization based on spectral clustering
     * [paper (ICASSP 2018)](https://google.github.io/speaker-id/publications/LstmDiarization/)
     * [GitHub (Google的官方程序 official code in GitHub from Google)](https://github.com/wq2012/SpectralCluster)
-* **BUTSpeechFIT/VBx**
+* **BUTSpeechFIT / VBx**
     * 基于变分贝叶斯-的说话人分割聚类 Speaker Diarization based on variational Bayes HMM
     * [paper (Computer Speech & Language)](https://www.sciencedirect.com/science/article/pii/S0885230821000619)
     * [GitHub (官方程序 official code)](https://github.com/BUTSpeechFIT/VBx/tree/master)
