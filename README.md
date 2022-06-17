@@ -25,7 +25,7 @@
     * 包含音乐、语音、噪声三类录音, 可用于语音识别、说话人识别中的数据增强 MUsic, Speech And Noise recordings for data augmentation in ASR, Speaker Recognition...
     * [OpenSLR (官方链接 official link)](https://www.openslr.org/17/)
 
-### 活动音检测 Voice Activity Detection (VAD)
+### 活动音检测(VAD) Voice Activity Detection
 * **SileroVAD**
     * [GitHub (官方代码 official code)](https://github.com/snakers4/silero-vad)
     * [Torch Hub (预训练模型 pretrained models)](https://pytorch.org/hub/snakers4_silero-vad_vad/)
@@ -60,7 +60,7 @@
     * [paper (INTERSPEECH 2019)](https://arxiv.org/abs/1810.04826) & [paper (INTERSPEECH 2020)](https://arxiv.org/abs/2009.04323)
     * [GitHub (作者推荐的非官方复现 non-official re-implementation recommended by the authors)](https://github.com/mindslab-ai/voicefilter)
 
-## 说话人识别 Speaker Recognition
+## 说话人识别(SR) Speaker Recognition
 
 ### 说话人识别 - SOTA
 * **VoxSRC-20 track 1**
@@ -97,7 +97,7 @@
     * 支持VoxCeleb、CN-Celeb等数据集, 支持TDNN、ResNet34、ECAPA-TDNN等网络 Support various recipes(VoxCeleb/CN-Celeb) and network architectures(TDNN/ResNet34/ECAPA-TDNN)
     * [GitLab (THU-CSLT开发的代码库 codebase developed by THU-CSLT)](https://gitlab.com/csltstu/sunine))
 
-## 说话人分割 Speaker Diarization
+## 说话人分割(SD) Speaker Diarization 
 
 ### 说话人分割 - Awesome
 * **wq2012/awesome-diarization**
@@ -131,9 +131,16 @@
     * 包括DER、JER等指标 metrics including DER, JER...
     * [GitHub (VoxSRC-20的官方程序 official code from VoxSRC-20)](https://github.com/a-nagrani/VoxSRC2020)
 
-## 音频标注 Audio Tagging 
+## 音频标注(AT) Audio Tagging 
 
 ### 音频标注 - 数据集 Dataset
 * **FSDKaggle2018**
     * 可用于音频标注、声源分离等任务 for tasks including Audio Tagging, general Sound Source Separation...
     * [Zenodo (官方链接 Official Link)](https://zenodo.org/record/2552860#.YnS_OPNByjC)
+
+## 语音预训练(PTM) Pre-Training for Speech
+
+### 语音预训练 - 代码 Codebase
+* **s3prl toolkits**
+    * 语音预训练和SUPERB基准工具包 Toolkits for Pre-Training in Speech and the SUPERB benchmark
+    * [GitHub (官方代码)](https://github.com/s3prl/s3prl)
