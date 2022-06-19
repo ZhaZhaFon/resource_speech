@@ -94,8 +94,12 @@
 
 ### 说话人识别 - 代码 Codebase
 * **THU-CSLT / Sunine**
-    * 支持VoxCeleb、CN-Celeb等数据集, 支持TDNN、ResNet34、ECAPA-TDNN等网络 Support various recipes(VoxCeleb/CN-Celeb) and network architectures(TDNN/ResNet34/ECAPA-TDNN)
+    * 支持VoxCeleb、CN-Celeb等数据集, 支持TDNN、ResNetSE34、ECAPA-TDNN等网络 Support various recipes(VoxCeleb/CN-Celeb) and network architectures(TDNN/ResNet34/ECAPA-TDNN)
     * [GitLab (THU-CSLT开发的代码库 codebase developed by THU-CSLT)](https://gitlab.com/csltstu/sunine))
+* **clovaai / voxceleb_trainer**
+    * 支持VoxCeleb, 支持VGGVox、ResNetSE34等网络, 支持多分类、度量学习等训练方式 Support VoxCeleb, support networks including VGGVox and ResNetSE34, support training methods including multi-class classification and metric learning
+    * [paper (INTERSPEECH 2020)](https://arxiv.org/abs/2003.11982)
+    * [GitHub (Oxford-VGG开发的代码库 codebase developed by Oxford-VGG)](https://github.com/clovaai/voxceleb_trainer)
 
 ## 说话人分割(SD) Speaker Diarization 
 
@@ -124,7 +128,7 @@
 * **BUTSpeechFIT / VBx**
     * 基于变分贝叶斯-的说话人分割聚类 Speaker Diarization based on variational Bayes HMM
     * [paper (Computer Speech & Language)](https://www.sciencedirect.com/science/article/pii/S0885230821000619)
-    * [GitHub (官方程序 official code)](https://github.com/BUTSpeechFIT/VBx/tree/master)
+    * [GitHub (BUT开发的代码库 codebase develop by BUT-SpeechFIT)](https://github.com/BUTSpeechFIT/VBx/tree/master)
 
 ### 说话人分割 - 评测 Evaluation
 * **VoxSRC-20 Evaluation Toolkits**
