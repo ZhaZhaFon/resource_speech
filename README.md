@@ -3,8 +3,8 @@
 ## 通用 General
 
 ### 教程 Tutorials
-* **NTU DLHLP**
-    * 李宏毅博士在台大开的课程 Lecture by Dr. by Hung-yi Lee at National Taiwan University
+* **Deep Learning for Human Lagnguage Processsing (DLHLP) @ National Taiwan University**
+    * 李宏毅博士在国立台湾大学开的课程 Lecture by Dr. by Hung-yi Lee at National Taiwan University
     * [website@NTU](https://speech.ee.ntu.edu.tw/~hylee/dlhlp/2020-spring.php)
 
 ### 语料库 Corpus
