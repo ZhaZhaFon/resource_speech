@@ -77,6 +77,10 @@
     * 基于dvector说话人表征和的CNN-LSTM分离网络的目标说话人提取 Target Speaker Extraction based on dvector speaker embedding and CNN-LSTM separation network
     * [paper (INTERSPEECH 2019)](https://arxiv.org/abs/1810.04826) & [paper (INTERSPEECH 2020)](https://arxiv.org/abs/2009.04323)
     * [GitHub (作者推荐的非官方复现 non-official re-implementation recommended by the authors)](https://github.com/mindslab-ai/voicefilter)
+* **BUTSpeechFIT / SpeakerBeam**
+    * 基于Asteroid的TD-SpeakerBeam官方复现 Official re-implementation of TD-SpeakerBeam based on Asteroid toolkits
+    * [paper (ICASSP 2020)](https://ieeexplore.ieee.org/abstract/document/9054683)
+    * [GitHub (BUT官方开源代码 official code released BUT)](https://github.com/BUTSpeechFIT/speakerbeam)
 
 ## 说话人识别(SR) Speaker Recognition
 
@@ -146,7 +150,7 @@
 * **BUTSpeechFIT / VBx**
     * 基于变分贝叶斯-的说话人分割聚类 Speaker Diarization based on variational Bayes HMM
     * [paper (Computer Speech & Language)](https://www.sciencedirect.com/science/article/pii/S0885230821000619)
-    * [GitHub (BUT开发的代码库 codebase develop by BUT-SpeechFIT)](https://github.com/BUTSpeechFIT/VBx/tree/master)
+    * [GitHub (BUT开发的代码库 codebase developed by BUT-SpeechFIT)](https://github.com/BUTSpeechFIT/VBx/tree/master)
 
 ### 说话人分割 - 评测 Evaluation
 * **VoxSRC-20 Evaluation Toolkits**
@@ -168,3 +172,16 @@
     * [GitHub (官方代码)](https://github.com/s3prl/s3prl)
 
 ## 关键词识别(KWS) Keyword Spotting
+
+## 语音合成(TTS) Text-To-Speech
+
+### 语音合成 - 教程 Tutorials
+* **cnlinxi / book-text-to-speech**
+    * 一个比较全面的TTS概览性教程 A comprehensive TTS tutorial
+    * [GitHub](https://github.com/cnlinxi/book-text-to-speech)
+
+### 语音合成 - 代码 Codebase
+* **jaywalnut310 / vits**
+    * Kakao官方开源的VITS代码(1阶段端到端TTS) Official code by Kakao Enterprise for VITS, a one-stage end-to-end TTS model
+    * [paper (ICML 2021)](https://arxiv.org/abs/2106.06103)
+    * [GitHub (Kakao的官方开源代码 official code released by Kakao Enterprise)](https://github.com/jaywalnut310/vits)
