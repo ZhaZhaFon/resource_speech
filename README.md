@@ -37,12 +37,18 @@
 * **py-webrtcvad**
     * [GitHub (官方代码 official code)](https://github.com/wiseman/py-webrtcvad)
 
-### 多用途语音工具箱 General-purpose Speech Toolkits
+### 多用途开发工具箱 General-purpose Development Toolkits
 * **SpeechBrain**
-    * 基于PyTorch的通用语音工具包, 支持语音识别、语音前端、说话人识别、情感识别、关键词识别、口语理解等多种语音任务和数据集 Toolkits for multiple speech tasks including ASR, Speech Front-end, Speaker Recognition, Keyword Spotting, Spoken Language Understanding... and corresponding recipes, built upon PyTorch.
+    * 基于PyTorch的通用语音工具包, 支持语音识别、语音前端、说话人识别、情感识别、关键词识别、口语理解等多种语音任务和数据集 Development toolkits for multiple speech tasks including ASR, Speech Front-end, Speaker Recognition, Keyword Spotting, Spoken Language Understanding... and corresponding recipes, built upon PyTorch.
     * [paper (arXiv 2021)](https://arxiv.org/abs/2106.04624)
     * [GitHub (代码仓库 code repository)](https://github.com/speechbrain/speechbrain)
     * [Doc (官方文档 official documentations)](https://speechbrain.readthedocs.io/en/latest/index.html)
+
+### 语音工具 Speech Tools
+* **FFmpeg**
+    * [官方文档 official documentations](https://ffmpeg.org/documentation.html)
+* **SoX**
+    * [官方文档 official documentations](http://sox.sourceforge.net/Docs/Documentation)
 
 ## 语音前端 Speech Front-end
 
@@ -157,7 +163,7 @@
 ## 语音预训练(PTM) Pre-Training for Speech
 
 ### 语音预训练 - 代码 Codebase
-* **s3prl toolkits**
+* **S3PRL toolkits**
     * 语音预训练和SUPERB基准工具包 Toolkits for Pre-Training in Speech and the SUPERB benchmark
     * [GitHub (官方代码)](https://github.com/s3prl/s3prl)
 
